@@ -28,9 +28,10 @@ namespace Vada.Controllers
                 MembershipTypes = membershipTypes
             };
             return View("CustomerForm", viewModel); }
+
         [HttpPost]
         public ActionResult Save(Customer customer) {
-            if (customer.Id == 0)
+            if (customer == null || customer.Id == 0)
             {
                 _context.Customers.Add(customer);
             } else
