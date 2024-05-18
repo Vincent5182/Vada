@@ -117,3 +117,4 @@ C:\Users\Milkshake\Desktop\Vada\obj\Debug\Vada.Migrations.SetMembershipType.reso
 C:\Users\Milkshake\Desktop\Vada\obj\Debug\Vada.Migrations.AddBirthDateToCustomer.resources
 C:\Users\Milkshake\Desktop\Vada\obj\Debug\Vada.Migrations.AddMovies.resources
 C:\Users\Milkshake\Desktop\Vada\obj\Debug\Vada.Migrations.AddGenres.resources
+C:\Users\Milkshake\Desktop\Vada\obj\Debug\Vada.Migrations.UpdateMovieForm.resources
