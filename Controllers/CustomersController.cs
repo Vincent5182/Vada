@@ -7,6 +7,7 @@ using Vada.ViewModels;
 
 namespace Vada.Controllers
 {
+
     public class CustomersController : Controller
     {
         private ApplicationDbContext _context;

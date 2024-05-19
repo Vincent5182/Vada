@@ -65,6 +65,9 @@ namespace Vada.Models
     public class RegisterViewModel
     {
         [Required]
+        [Display(Name = "Driver License")]
+        public string DriverLicense { get; set; }
+        [Required]
         [EmailAddress]
         [Display(Name = "Email")]
         public string Email { get; set; }
