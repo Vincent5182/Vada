@@ -14,7 +14,7 @@ namespace Vada.App_Start
             // Domain to Dto
             Mapper.CreateMap<Customer, CustomerDto>();
             Mapper.CreateMap<Movie, MovieDto>();
-
+            Mapper.CreateMap<MembershipType, MembershipTypeDto>();
 
             // Dto to Domain
             Mapper.CreateMap<CustomerDto, Customer>()

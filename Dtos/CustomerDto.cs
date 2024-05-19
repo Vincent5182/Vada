@@ -16,7 +16,8 @@ namespace Vada.Dtos
         public bool IsSubscribed { get; set; }
         [Required(ErrorMessage = "Choose a membership type")]
         public byte MembershipTypeId { get; set; }
-        [Adult]
+        public MembershipTypeDto MembershipType { get; set; }
+    //     [Adult]
         public DateTime? Birthdate { get; set; }
     }
 }
