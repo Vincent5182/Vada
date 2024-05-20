@@ -20,7 +20,7 @@ namespace Vada.Dtos
 
         public DateTime ReleaseDate { get; set; }
 
-        [Range(1, 20)]
+        [Range(0, 20)]
         public byte NumberInStock { get; set; }
     }
 }
