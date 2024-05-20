@@ -141,3 +141,10 @@ C:\Users\Milkshake\Desktop\Vada\bin\AutoMapper.dll
 C:\Users\Milkshake\Desktop\Vada\bin\AutoMapper.xml
 C:\Users\Milkshake\Desktop\Vada\obj\Debug\Vada.Migrations.seedUsers.resources
 C:\Users\Milkshake\Desktop\Vada\obj\Debug\Vada.Migrations.AddDriverLicense.resources
+C:\Users\Milkshake\Desktop\Vada\bin\Glimpse.Ado.dll
+C:\Users\Milkshake\Desktop\Vada\bin\Glimpse.AspNet.dll
+C:\Users\Milkshake\Desktop\Vada\bin\Glimpse.Core.dll
+C:\Users\Milkshake\Desktop\Vada\bin\Glimpse.EF6.dll
+C:\Users\Milkshake\Desktop\Vada\bin\Glimpse.Mvc5.dll
+C:\Users\Milkshake\Desktop\Vada\obj\Debug\Vada.Migrations.updateRentals.resources
+C:\Users\Milkshake\Desktop\Vada\obj\Debug\Vada.Migrations.addMovieStock.resources
