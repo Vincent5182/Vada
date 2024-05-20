@@ -443,6 +443,13 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Images\Customers_List.png" />
+    <Content Include="Images\List_of_Rentals.png" />
+    <Content Include="Images\Movies_List.png" />
+    <Content Include="Images\New_Rental.png" />
+    <Content Include="Images\Rental_Toast.png" />
+    <Content Include="Images\Update_Customer.png" />
+    <Content Include="Images\Update_Movie.png" />
     <Content Include="Scripts\bloodhound.js" />
     <Content Include="Scripts\bloodhound.min.js" />
     <Content Include="Scripts\bootbox.js" />
